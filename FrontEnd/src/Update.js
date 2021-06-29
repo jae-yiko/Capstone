@@ -98,7 +98,6 @@ class Update extends Component{
                     </thead>
                     <tbody>
                         <tr>
-                            <td>{this.state.updated}</td>
                             <td>{this.state.update.sid}</td>
                             <td>{this.state.update.sname}</td>
                             <td>{this.state.update.sgrade}</td>
