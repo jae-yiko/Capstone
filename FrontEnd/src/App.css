@@ -1,0 +1,70 @@
+/* makes navbar horizontal and spaced inbetween each nav*/
+li {
+  display: inline;
+  margin-right: 10px;
+}
+/* makes navbar centered and bolded */
+ul{
+  text-align: center;
+  font-weight: 900;
+
+}
+
+body{
+  background: linear-gradient(to right, rgb(169, 169, 226), rgb(217, 167, 230))
+}
+
+.allofupdate{
+  max-width: 600px;
+  max-height:300px ;
+  height: 100vh;
+  background: #fff;
+  border-radius: 5px;
+  right: 380px;
+  padding: 25px 30px;
+  align-items:center
+}
+
+.whiteBox{
+  max-width: 600px;
+  max-height:300px ;
+  height: 100vh;
+  background: #fff;
+  border-radius: 5px;
+  right: 380px;
+  padding: 25px 30px;
+  align-items:center
+}
+
+.removeinputbtn{
+  max-width: 600px;
+  max-height:300px ;
+  background: #fff;
+  border-radius: 5px;
+  padding: 25px 30px;
+}
+
+.allofsearch{
+  max-width: 600px;
+  max-height:300px ;
+  background: #fff;
+  border-radius: 5px;
+  padding: 25px 30px;
+}
+
+.allofupdate.updateinputbtn{
+  left:50%;
+  right:50%;
+  margin-right: -50%;
+}
+
+.allofupdate form.updateinputbtn{
+  display:flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+}
+
+.allofupdate.updateinputbtn.updateInfo{
+  font-size: 25px;
+  font-weight:500;
+}
