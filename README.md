@@ -1,3 +1,4 @@
+![capstoneHome](https://user-images.githubusercontent.com/80718484/123991289-956ae880-d998-11eb-82d0-ff263da4ddba.PNG)
 In this project I have used Database, Spring boot, React, and Bootstrap.
 Purpose: Created for teachers or professors as a way to keep track of their students information. Informations such as the student's id, full name, age, grade, average, and teacher can be updated.
 As students come and go, teachers/professors are able to add/remove students information.
