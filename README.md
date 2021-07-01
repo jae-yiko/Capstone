@@ -1,4 +1,6 @@
-In this project I have used Database, Spring boot, React, and Bootstrap.
+Technologies uesed in this project:
+  -FrontEnd: HTML3, CSS5, ReactjS, Axios, and Bootstrap5
+  -BackEnd: MySql, SQL, Spring boot, MVC
 
 Purpose: Created for teachers or professors as a way to keep track of their students information. Informations such as the student's id, full name, age, grade, average, and teacher can be updated. As students come and go, teachers/professors are able to add/remove students information. 
 
