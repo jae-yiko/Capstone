@@ -1,3 +1,6 @@
+# Student Management
+
+## Description
 Technologies uesed in this project:
   -FrontEnd: HTML3, CSS5, ReactjS, Axios, and Bootstrap5
   -BackEnd: MySql, SQL, Spring boot, MVC
@@ -27,7 +30,7 @@ In the Remove page, the user is able to delete a student of their choosing by ty
 Bootstrap: In each of the pages input boxes and buttons layout has been organized by using bootstrap. 
 Database: All of the students information are stored in a created database called student.
 
-Future plans to upgrade:
+## Bugs
   -create a way to search a student by their full names
   -create a delete button for each student so the user can delete the student automatically without having to search the students id number
   -if the user wants to update only one portion of the students information allow the previous information to be automatically grabed while updating on the inputed information
