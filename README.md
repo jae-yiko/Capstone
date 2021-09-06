@@ -1,11 +1,11 @@
 # Student Management
+Created for teachers or professors as a way to keep track of their students information. Informations such as the student's id, full name, age, grade, average, and teacher can be updated. As students come and go, teachers/professors are able to add/remove students information. 
 
 ## Description
 Technologies uesed in this project:
   -FrontEnd: HTML3, CSS5, ReactjS, Axios, and Bootstrap5
   -BackEnd: MySql, SQL, Spring boot, MVC
 
-Purpose: Created for teachers or professors as a way to keep track of their students information. Informations such as the student's id, full name, age, grade, average, and teacher can be updated. As students come and go, teachers/professors are able to add/remove students information. 
 
 In the Home page, the user can instantly view their students information and search a student of their choice by searching that student's id. This was made possible by utilizing the CRUD operator GET (HTTP method) in Spring boot. I have implemented Bootstrap in the Home page's table which allows a hover feature when the user hovers their mouse over a students column.
 ![capstoneHome](https://user-images.githubusercontent.com/80718484/123991393-af0c3000-d998-11eb-8a97-b85072dcbcd1.PNG)
@@ -30,7 +30,7 @@ In the Remove page, the user is able to delete a student of their choosing by ty
 Bootstrap: In each of the pages input boxes and buttons layout has been organized by using bootstrap. 
 Database: All of the students information are stored in a created database called student.
 
-## Bugs
-  -create a way to search a student by their full names
-  -create a delete button for each student so the user can delete the student automatically without having to search the students id number
-  -if the user wants to update only one portion of the students information allow the previous information to be automatically grabed while updating on the inputed information
+## Future Plans of Implementations
+  1)create a way to search a student by their full names
+  2)create a delete button for each student so the user can delete the student automatically without having to search the students id number
+  3)if the user wants to update only one portion of the students information allow the previous information to be automatically grabed while updating on the inputed information
