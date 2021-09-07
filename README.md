@@ -31,6 +31,6 @@ Bootstrap: In each of the pages input boxes and buttons layout has been organize
 Database: All of the students information are stored in a created database called student.
 
 ## Future Plans of Implementations
-  1)create a way to search a student by their full names
-  2)create a delete button for each student so the user can delete the student automatically without having to search the students id number
-  3)if the user wants to update only one portion of the students information allow the previous information to be automatically grabed while updating on the inputed information
+  1) Create a way to search a student by their full names
+  2) Create a delete button for each student so the user can delete the student automatically without having to search the students id number
+  3) If the user wants to update only one portion of the students information allow the previous information to be automatically grabed while updating on the inputed information
